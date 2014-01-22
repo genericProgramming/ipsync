@@ -10,4 +10,6 @@ the makefile to create the host and client.
 
 Check out the blog for more detailed explanation.
 
+http://genericprogrammingblog.blogspot.com/2014/01/avoiding-dynamic-dns-using-d-curl-and.html
+
 -Ben
