@@ -1,0 +1,27 @@
+/++
+ + This program depends on 
+ + this configuration file 
+ + containing valid fields 
+ + for username, password,
+ + folder and subject.  
+ + 
+ + If the cipher is used then
+ + the sentence needs to be 
+ + completed and each grammar
+ + type needs an array of 11 
+ + words. The parser just 
+ + looks up the key value, so
+ + if you wanted ProperNoun
+ + instead of just noun, that
+ + would work as well.
+ ++/
+username:username
+password:password
+folder:new_ip_address
+subject:hey_you_got_a_new_ip_doncha?
+verb:hopped, gailed, spiked, thwapped, plucked, truncated, dodged, dove, chucked, clapped, laughed
+adjective:purple, hunky, highlighted, hueful, huggable, huge, haughty, wholesome, healthy, hearty, happy
+adverb:mildly, fastly, gently, sadly, happily, gracefully, softly, tragically, coolly, tactfully, clumsily
+noun:John, he, she, it, football, shoe, Emily, boot, bush, stove, butt-cheek
+infinitivePhrase:get, help, purchase, steal, supply, jump, jog, ignite, choose, select, pluck
+sentence:noun, verb, adverb, to, infinitivePhrase, a, adjective, adjective, adjective, noun , and, noun, verb, while ,someone, verb, noun, .
